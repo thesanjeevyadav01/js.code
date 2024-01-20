@@ -8,6 +8,7 @@ accountCity = "Benguluru"
 
 console.log(accountId);
 
+
 console.table([accountEmail,accountId,accountName,accountCity])
 
 /*
